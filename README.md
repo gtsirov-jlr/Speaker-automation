@@ -1,5 +1,5 @@
 # Speaker-automation
-Arduino C code for the speaker automation project
+Arduino C code for the speaker automation project can be faund in the main.c file
 
 Link to Confluence page: https://confluence.devops.jlr-apps.com/display/ACSC/Speaker+automation+rig
 
